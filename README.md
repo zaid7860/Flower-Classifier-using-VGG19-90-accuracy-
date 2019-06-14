@@ -9,3 +9,11 @@ We have created a 17 category flower dataset with 80 images for each class. The 
 
 # For Images and Pretrained Model visit
 # https://drive.google.com/open?id=1N9UODvrcl-ltuloG0pV0T_cRe8vyieD6
+
+# Instruction
+
+* Clone or Download Repo
+* Download Pretrained Model 
+  * flowers_vgg_with90%_accuracy.h5
+  * flowers_vgg.h5
+* Open Python Notebook and Use  it for Classifing 17 category of FLowers
